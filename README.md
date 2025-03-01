@@ -13,3 +13,13 @@ This project is an iOS application developed using **SwiftUI** , following the *
 1. Clone the repository:
 ```bash
 git clone https://github.com/Praveen8423/Level_supermind.git
+
+📦 LevelSuperMind
+ ┣ 📂 Model
+ ┣ 📂 View
+ ┃ ┣ 📄 HomeScreenView.swift
+ ┃ ┗ 📄 ProfileView.swift
+ ┣ 📂 ViewModel
+ ┣ 📄 Assets.xcassets
+ ┣ 📄 Info.plist
+ ┗ 📄 README.md
